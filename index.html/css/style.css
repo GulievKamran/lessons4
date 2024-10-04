@@ -1,0 +1,58 @@
+.box {
+    padding: 10px;
+    border-radius: 10px;
+    width: 560px;
+    height: 300px;
+
+}
+
+.boxes {
+    width: 1480px;
+    padding: 10px;
+    margin: 0 auto;
+    flex-wrap:wrap ;
+    height: 550px;
+
+    display: flex;
+    gap: 10px;
+justify-content: space-between;
+align-items: center;
+}
+
+.box3 {
+    background-size: cover;
+    background-position: center;
+}
+.box5 {
+    border: 3px solid blue;
+    place-self: left;
+}
+
+h2 {
+    text-align: center;
+    border: 5px solid yellowgreen;
+    background-color: bisque;
+}
+.box1, .box2 , .box3 , .box4 ,.box5, .box6 , .box7,  .box8{
+    font-size: larger;
+    margin-top: 30px;
+    font-weight: 700;
+    font-style: italic;
+    border: 7px solid palevioletred;
+    border-radius: 15px;
+    border-bottom: ridge;
+}
+
+.box7 {
+    image-orientation:flip
+}
+
+body {
+    background-color: thistle;
+}
+h1 {
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+    border: 2px solid black;
+}

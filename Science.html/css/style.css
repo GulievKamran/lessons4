@@ -1,0 +1,43 @@
+h1 {
+    color:blue;
+    text-align: center;
+    background-color:lightskyblue;
+    width: 1220px;
+    height: 500px;
+    background-image:url(https://www.hancockhealth.org/wp-content/uploads/2023/02/NASAlandscape-e1676046879582.jpg);
+    background-repeat:round;
+    background-size: contain;
+    padding-top: 7px;
+    padding-left: 15px;
+    padding-right: 90px;
+    padding-bottom: 50px;
+}
+h2 {
+    color:blue;
+    text-align: center;
+    background-color:skyblue;
+    width: 1000px;
+    height: 800px;
+    background-image: url(https://img.offshore-mag.com/files/base/ebm/os/image/2021/03/2104OFFauv_p01.60512e8420f63.png?auto=format,compress&fit=crop&q=45&w=640&width=640);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: round;
+    border: 2px solid ;
+
+   
+
+}
+
+body { 
+    background-color:lavenderblush;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREulC4a7kUBFsBt5ldUhN-yyZ3yuM8TMyKlw&s);
+}
+li {
+    list-style-type: decimal-leading-zero; font-style: oblique;
+}
+li { 
+    font-size:large ; color: darkblue; margin:120px 80px 50px 50px; border: 5px ridge skyblue;
+    border-bottom: 5px dashed blue;
+    border-radius: 5px;
+    padding: left 125px;
+}
